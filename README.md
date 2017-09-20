@@ -1,5 +1,5 @@
-## Solutions in Python / Jupyter Notebook for Machine Learning course by Andrew NG.
+## Assignment solutions for Andrew Ng's Machine Learning course
 
-I recently started working on the Machine Learning Course. Here is my solutions for the assignments from the course:
+I recently started working on the Machine Learning Course. Below are the links for the solutions. I used Python / Jupyter Notebook.
 
-1 - [Programming Exercise 1: Linear Regression]
+* [Programming Exercise 1: Linear Regression]
